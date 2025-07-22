@@ -1,0 +1,27 @@
+
+---
+
+## 🛡️ `.gitignore`
+
+```gitignore
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output
+*.pkl
+*.csv
