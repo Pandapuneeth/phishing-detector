@@ -47,3 +47,5 @@ Your account has been suspended. Click here to verify your details.
 📬 Contact
 🔗 GitHub: Pandapuneeth
 📩 Open to freelance work & collaborations!
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://phishing-detector-njkzerzsknrix3jhchdbzg.streamlit.app/)
